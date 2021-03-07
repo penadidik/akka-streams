@@ -2,6 +2,7 @@
 
 This module contains articles about Akka Streams. 
 
-### Relevant articles
+### [Didik Maryono](https://penadidik.info)
 
-- [Guide to Akka Streams](https://www.baeldung.com/akka-streams)
+- Full Stack Developer Indonesia
+- Co-Founder and CTO [Dentist Care Indonesia](https://dentistcare.id/)
